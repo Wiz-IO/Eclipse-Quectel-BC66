@@ -8,15 +8,14 @@ This Version 1.0.0
 
 Get from archive folder (it is Eclipse Workspace) OpenCPU_BC66
 
-Copy / Paste from THIS_PROJECT\make: 
+Copy/Paste from OpenCPU_BC66\Hello\make 
 * cs-make.exe
 * cs-rm.exe
 to YOUR_PATH_TO\COMPILER\4.8.3\bin
         
 This Project - Properties:
 * C/C++ Build - Environment - edit PATH = YOUR_PATH_TO\COMPILER\4.8.3\bin 
-* C/C++ Build - Settings - Tab Toolchains:   
-        * edit Global path: YOUR_PATH_TO\COMPILER\4.8.3\bin   
+* C/C++ Build - Settings - Tab Toolchains: edit Global path: YOUR_PATH_TO\COMPILER\4.8.3\bin   
         
 *note: BC66 Modules NB used FP Hard fpv4-sp-d16* 
     
