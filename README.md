@@ -7,6 +7,8 @@ Use Eclipse from OpenCPU M66 (is ready for BC66)
 
 Use Compiler from OpenCPU BC66 (gcc 4.8.3 for cortex-m4 + maths)
 
+Firmware, USB Drivers, Quectel IoT Flash Tool https://app.box.com/s/3wrkh1yzn09yuyb5f8v5vllmlir0571s
+
 *note: BC66 Modules NB used FP Hard fpv4-sp-d16*
 
 Copy / Paste from THIS_PROJECT\make: 
@@ -21,11 +23,11 @@ This Project - Properties:
     
 APPLY, OK  (is ready for compile)     
     
-*This Project - Properties - C/C++ Build - plus your favorite settings settings... *
+*This Project - Properties - C/C++ Build - plus your favorite settings settings*
    
     
 Clean / Compile  
 
 Make Target - BUILD
 
-Upload...
+Upload to module
