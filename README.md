@@ -6,7 +6,7 @@ This Version 1.0.0
 * Use Compiler from OpenCPU BC66 (gcc 4.8.3 for cortex-m4 + maths)
 * Firmware, USB Drivers, Quectel IoT Flash Tool https://app.box.com/s/3wrkh1yzn09yuyb5f8v5vllmlir0571s
 
-*note: BC66 Modules NB used FP Hard fpv4-sp-d16*
+Get from archive folder (it is Eclipse Workspace) OpenCPU_BC66
 
 Copy / Paste from THIS_PROJECT\make: 
 * cs-make.exe
@@ -17,6 +17,8 @@ This Project - Properties:
 * C/C++ Build - Environment - edit PATH = YOUR_PATH_TO\COMPILER\4.8.3\bin 
 * C/C++ Build - Settings - Tab Toolchains:   
         * edit Global path: YOUR_PATH_TO\COMPILER\4.8.3\bin   
+        
+*note: BC66 Modules NB used FP Hard fpv4-sp-d16* 
     
 APPLY, OK  (is ready for compile)     
     
