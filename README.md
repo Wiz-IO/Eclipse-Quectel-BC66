@@ -17,13 +17,15 @@ to YOUR_PATH_TO\COMPILER\4.8.3\bin
 This Project - Properties:
 * C/C++ Build - Environment - edit PATH = YOUR_PATH_TO\COMPILER\4.8.3\bin 
 * C/C++ Build - Settings - Tab Toolchains:   
-** edit Global path: YOUR_PATH_TO\COMPILER\4.8.3\bin   
+        * edit Global path: YOUR_PATH_TO\COMPILER\4.8.3\bin   
     
 APPLY, OK  (is ready for compile)     
     
 *This Project - Properties - C/C++ Build - plus your favorite settings settings... *
    
     
-Clean / Compile    
+Clean / Compile  
+
 Make Target - BUILD
+
 Upload...
